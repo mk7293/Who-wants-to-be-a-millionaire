@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/abdulhakim/Documents/CS/Courses/C++/MillionaireGame/main.cpp
+iostream
+-
+src/game.h
+/Users/abdulhakim/Documents/CS/Courses/C++/MillionaireGame/src/game.h
+
+/Users/abdulhakim/Documents/CS/Courses/C++/MillionaireGame/src/game.cpp
+iostream
+-
+sstream
+-
+game.h
+/Users/abdulhakim/Documents/CS/Courses/C++/MillionaireGame/src/game.h
+
+/Users/abdulhakim/Documents/CS/Courses/C++/MillionaireGame/src/game.h
+string
+-
+vector
+-
+map
+-
+
